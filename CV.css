@@ -1,0 +1,22 @@
+img{
+    height: 250px;
+    width: 200px;
+    float: right;
+
+}
+h1{
+    text-align: center;
+}
+#once{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px rgb(39, 8, 5) solid;
+    text-align: center;
+}
+#lay{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
