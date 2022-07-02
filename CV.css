@@ -1,9 +1,10 @@
 img{
-    height: 250px;
-    width: 200px;
-    float: right;
-
+   height: 200px; 
+   width: 180px;
+   float: right;
 }
+
+
 h1{
     text-align: center;
 }
